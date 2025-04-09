@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hello there! I'm Aditi</h1>
----
+
 ## 📂 What’s in this Repository?
 
 This is a collection of all my **data analytics and visualization projects**.  
