@@ -1,12 +1,5 @@
 <h1 align="center">👋 Hello there! I'm Aditi</h1>
-
-
-## 🚀 About Me
-I'm a data enthusiast passionate about turning raw data into powerful insights.  
-My skills include **Excel**, **SQL**, **Python**, and **Data Visualization Tools** (Power BI, Tableau).
-
 ---
-
 ## 📂 What’s in this Repository?
 
 This is a collection of all my **data analytics and visualization projects**.  
