@@ -13,7 +13,7 @@ This is a collection of all my **data analytics and visualization projects**.
 Each folder contains a detailed `README.md` explaining the project scope, cleaning techniques, business problems solved, and visualizations.
 
 📁 **Current Projects:**
-- [Sales and Revenue Analysis](./Sales and Revenue Analysis README.md)
+- [Sales and Revenue Analysis](https://github.com/hello-aditi/power-bi-dashboards/tree/main/Sales%20and%20Revenue%20Analyisis)
 - *(More projects coming soon...)*
 
 ---
