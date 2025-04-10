@@ -6,6 +6,7 @@ Each folder contains a detailed `README.md` explaining the project scope, cleani
 
 📁 **Current Projects:**
 - [Sales and Revenue Analysis](https://github.com/hello-aditi/power-bi-dashboards/tree/main/Sales%20and%20Revenue%20Analyisis)
+- [Zomato Pune Restaurants Analysis](https://github.com/hello-aditi/power-bi-dashboards/tree/main/Zomato%20Pune%20Restaurant%20Analysis)
 - *(More projects coming soon...)*
 
 ---
