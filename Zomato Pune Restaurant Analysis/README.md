@@ -42,7 +42,8 @@ This analysis can be valuable for customers, restaurant owners, marketers, or bu
 ## 📈 Insights Delivered
 
 The dashboard reveals powerful insights into restaurant patterns in Pune, helping identify top-rated areas, luxury dining zones, and food variety hubs. It also highlights user sentiment via rating distributions and review counts.
- 
+
+![Screenshot (140)](https://github.com/user-attachments/assets/3b72814b-fccc-4a60-bed9-df0b7a0e0fd9)
 
 ---
 
